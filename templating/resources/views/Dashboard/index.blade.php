@@ -1,4 +1,4 @@
-@include('dashboard.layout.template')
+@extends('dashboard.layout.template')
 @section('dashboard-content')
     <section class="wrapper">
       <!--overview start-->

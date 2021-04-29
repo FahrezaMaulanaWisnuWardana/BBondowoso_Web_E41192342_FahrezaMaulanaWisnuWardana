@@ -44,7 +44,7 @@
 
 <body>
   <!-- container section start -->
-  <section id="container" class="">
+  <section id="container">
 
     @include('dashboard.layout.navbar')
     <!--header end-->
